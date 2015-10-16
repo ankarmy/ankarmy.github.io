@@ -1,0 +1,13 @@
+.main {
+	width: 1000px;
+	background-color: gray;
+	padding: 5px 0px;
+}
+.profile {
+	background-color: white;
+	width: 500px;
+	margin-left: 250px;
+}
+p {
+	margin-left: 10px;
+}
